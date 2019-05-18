@@ -1,0 +1,219 @@
+*
+{
+    margin:0;
+    padding:0;
+    outline:0;
+}
+body{
+font-size:20px;
+
+}
+.over
+{
+    overflow:hidden;
+	width:100%;
+	margin:0 auto;
+
+}
+.first{
+    height: 60px;
+    background:white;
+
+  
+    
+}
+.sub {
+	letter-spacing: 4px;
+	float: left;
+	display: block;
+	padding: 2px;
+	padding-top: 15px;
+	margin: 2px;
+    padding-left: 38px;
+}
+.sub a
+{
+    text-decoration: none;
+    color:black;
+    
+}
+.sub a:hover{
+background:#CCCCCC;
+padding:10px;
+
+
+
+}
+.sub1 {
+	letter-spacing: 4px;
+	display: block;
+	float: right;
+	margin: 2px;
+	padding-right: 60px;
+    padding-top: 15px;
+   
+}
+.sub1 a{
+text-decoration: none;
+color:black;
+margin-left: 30px;
+
+}
+.sub1 a:hover{
+
+    background:#CCCCCC;
+padding:10px;
+}
+.imga img
+{
+    position: relative;
+
+}
+.up
+{
+    position: absolute;
+    top:125%;
+    color:#595A5E;
+    padding-left:30px;
+}
+.all
+{
+    height: 900px;
+    width:1200px;
+    border-bottom:1px solid #A0A0A0;
+
+}
+.im img{
+padding-top:80px;
+padding-left: 17px;
+
+}
+.par h1 {
+	float: right;
+	margin-top: -710px;
+	padding-right: 163px;
+}
+.par h5 {
+	float: right;
+	margin-top: -635px;
+	padding-right: 249px;
+}
+.par p {
+	float: right;
+	margin-top: -575px;
+    padding-left: 678px;
+    line-height: 30px;
+}
+.par p span {
+	padding: 1px;
+	background: #D7D8DC;
+}
+.today
+{
+    
+    height: 900px;
+    width:1200px;
+    border-bottom:1px solid #A0A0A0;
+}
+.to h1 {
+	padding: 26px;
+    margin-top: 85px;
+	letter-spacing: 4px;
+	padding-left: 186px;
+}
+.to p {
+	padding: 3px;
+	margin: 7px;
+	letter-spacing: 5px;
+	padding-left: 28px;
+}
+
+.pic img {
+	float: right;
+	margin-top: -350px;
+}
+.a{
+    padding-top:20px;
+}
+.a p {
+	padding: 12px;
+	margin: 4px;
+	letter-spacing: 5px;
+	padding-left: 27px;
+	padding-top: 40px;
+}
+.b{
+    padding-top:20px;
+}
+.b p {
+	padding: 18px;
+	margin: 4px;
+	letter-spacing: 5px;
+	padding-left: 27px;
+}
+.contract
+{
+height: 700px;
+width: 1160px;
+
+}
+.contract h1 {
+	line-height: 83px;
+	padding-top: 49px;
+    padding-left: 58px;
+    letter-spacing: 5px;
+}
+.contract p {
+	font-size: 16px;
+	padding-top: 19px;
+	padding-left: 58px;
+}
+.contract h4 {
+	font-size: 30px;
+	color: #91AEBC;
+	padding-left: 58px;
+	padding-top: 22px;
+}
+input[type=text] {
+	width: 800px;
+	height: 40px;
+	
+  }
+  input[type=text]:focus {
+	width: 1000px;
+	height: 40px;
+  }
+  input[type=number] {
+	width: 800px;
+	height: 40px;
+	
+  }
+  input[type=number]:focus {
+	width: 1000px;
+	height: 40px;
+  }
+  input[type=datetime-local] {
+	width: 800px;
+	height: 40px;
+	
+  }
+  input[type=datetime-local]:focus {
+	width: 1000px;
+	height: 40px;
+  }
+ button[type=button]:hover
+  {
+	background:#CCCCCC;
+  }
+  .footer
+  {
+	  height:128px;
+	  background: #F1F1F1;
+  }
+  .footer p {
+	padding-top: 60px;
+	text-align: center;
+}
+.footer p a {
+	padding-left: 5px;
+}
